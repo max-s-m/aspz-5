@@ -18,7 +18,7 @@
 
 ## Результат виконання:
 
-```bash
+```
 max@aspz:~/c/5 $ gcc -g 1.c -o 1
 max@aspz:~/c/5 $ valgrind --leak-check=full ./1
 ==1143== Memcheck, a memory error detector
